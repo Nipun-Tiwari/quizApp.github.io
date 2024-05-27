@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": {
+          "A": "Paris",
+          "B": "London",
+          "C": "Madrid",
+          "D": "Berlin"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+          "A": "Earth",
+          "B": "Mars",
+          "C": "Venus",
+          "D": "Jupiter"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": {
+          "A": "Elephant",
+          "B": "Giraffe",
+          "C": "Blue Whale",
+          "D": "Kangaroo"
+        },
+        "correct": "C"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": {
+          "A": "Oxygen",
+          "B": "Carbon Dioxide",
+          "C": "Nitrogen",
+          "D": "Hydrogen"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": {
+          "A": "Earth",
+          "B": "Mars",
+          "C": "Saturn",
+          "D": "Jupiter"
+        },
+        "correct": "D"
+      },
+      {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "options": {
+          "A": "Oxygen",
+          "B": "Carbon Dioxide",
+          "C": "Helium",
+          "D": "Nitrogen"
+        },
+        "correct": "D"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": {
+          "A": "Au",
+          "B": "Ag",
+          "C": "Fe",
+          "D": "Pb"
+        },
+        "correct": "A"
+      },
+      {
+        "question": "Who is known as the father of modern physics?",
+        "options": {
+          "A": "Isaac Newton",
+          "B": "Albert Einstein",
+          "C": "Galileo Galilei",
+          "D": "Stephen Hawking"
+        },
+        "correct": "B"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": {
+          "A": "Heart",
+          "B": "Liver",
+          "C": "Brain",
+          "D": "Skin"
+        },
+        "correct": "D"
+      },
+      {
+        "question": "Which gas do humans breathe out when they exhale?",
+        "options": {
+          "A": "Oxygen",
+          "B": "Carbon Dioxide",
+          "C": "Nitrogen",
+          "D": "Hydrogen"
+        },
+        "correct": "B"
+      }
+    ]
+  }
+  

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Quiz</title>
+</head>
+<body class="quiz">
+    <section class="main">
+        <div class="progress-container">
+            <div class="bar-container">
+                <div class="progress-bar"></div>
+            </div>
+            <p class="progress">2/10</p>
+        </div>
+        <div class="container">
+            <div class="circular-progress">
+                <span class="progress-value">30</span>
+            </div>
+        </div>
+        <div class="question">
+            <p>What is your name? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi libero reiciendis vero beatae molestiae aut impedit tempora aperiam cum architecto !</p>
+        </div>
+        <div class="options">
+            <button class="btn" type="button" id="A">Option A</button>
+            <button class="btn" type="button" id="B">Option B</button>
+            <button class="btn" type="button" id="C">Option C</button>
+            <button class="btn" type="button" id="D">Option D</button>
+        </div>
+        <div class="navigation">
+            <button type="button" id="next-button">Next</button>
+            <button type="button" id="sub-button">Submit</button>
+        </div>
+       
+    </section>
+    <section class="result">
+        <div class="container2">
+            <div class="circular-progress2">
+                <span class="progress-value2">50</span>
+            </div>
+        </div>
+        <h1 class="remarks">Get Better</h1>
+        <div class="neon__button">
+            <a href="index.html">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    Go Back
+                </a>
+            </div>
+        <audio id="clap" src="Audio/claps.mp3" preload="auto"></audio>
+        <audio src="Audio/failure.mp3" id="bloop"></audio>
+        <audio src="Audio/wrong.mp3" id="wrongAudio"></audio>
+        <audio src="Audio/correct.mp3" id="correct"></audio>
+    </section>
+    <script src="script.js"></script>
+    <script src="confetti.js"></script>
+</body>
+</html>
